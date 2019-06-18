@@ -9,8 +9,8 @@ but minor stuff we don;t want to keep doing
 
 ### Dependencies
 
-Uses CSS3 and Html5 latest features. Be sure to prefix any bleeding-edge rules, tag, etc ( see [caniuse](https://caniuse.com/)for reference) hahahahahahahahahahaha
-Also using latest ES6/next, you should probably think about including Babel for transpilation.
+Uses CSS3 and Html5 latest features. Be sure to prefix any bleeding-edge rules, tag, etc ( see [caniuse](https://caniuse.com/) for reference) hahahahahahahahahahaha
+Also using latest ES6/next, you should probably think about including ([Babel](https://babeljs.io/)) for transpilation.
 
 ### Installing
 
@@ -27,7 +27,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Soyoon] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
