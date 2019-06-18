@@ -9,7 +9,7 @@ but minor stuff we don;t want to keep doing
 
 ### Dependencies
 
-Uses CSS3 and Html5 latest features. Be sure to prefix any bleeding-edge rules, tag, etc hahahahahahahahahahaha
+Uses CSS3 and Html5 latest features. Be sure to prefix any bleeding-edge rules, tag, etc ( see [caniuse](https://caniuse.com/)for reference) hahahahahahahahahahaha
 Also using latest ES6/next, you should probably think about including Babel for transpilation.
 
 ### Installing
