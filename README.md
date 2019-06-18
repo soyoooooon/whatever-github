@@ -1,3 +1,5 @@
+![GitHub Logo](/images/cat.jpeg)
+
 # This is all about presentation project files and review
 
 Going over some stuff that almost everyone got slightly wrong. Not major stuff, so don't feel bad,
