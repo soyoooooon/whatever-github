@@ -23,6 +23,12 @@ cd to the directory of your choice, clone, and hack away!
 
 Contributors names and contact info
 
+* Soyoon Lee
+* Soyoon Lee
+* Soyoon Lee
+* Soyoon Lee
+* Soyoooooooooooooooooooooon Leeeeeeeeeeeeee
+
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
